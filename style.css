@@ -1,0 +1,24 @@
+body {
+    overflow-x: hidden;
+}
+
+.box {
+    background-color: rgb(236, 207, 187);
+    width: 90%;
+    max-width: 350px;
+    margin: 50px auto; /* Center the box horizontally and add some space at the top */
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+
+.searchbar {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 20px 50px; /* Adjust vertical margin */
+}
+
+.btn{
+    border-radius: 20px;
+    color: green;
+}
